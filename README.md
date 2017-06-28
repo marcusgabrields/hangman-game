@@ -1,2 +1,3 @@
 # Jogo da Forca
 
+- Instruções
